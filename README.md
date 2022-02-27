@@ -6,7 +6,6 @@ A ídeia é aproveitar a brincadeira com a comunidade dev para mostar um pouqinh
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
