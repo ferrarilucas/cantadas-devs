@@ -82,7 +82,8 @@ html{
 .attribution { font-size: 11px; text-align: center; position: absolute; bottom: 0; width: 99%; }
 .attribution a { color: #fff; }
 
-@media screen and (prefers-color-scheme: dark) {
+@media screen and (prefers-color-scheme: dark),
+@media (prefers-dark-interface){
   html{
     background-color: #121213;
     color: #aaadaf;
