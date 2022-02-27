@@ -1,22 +1,5 @@
 # Gerador de catadas dev
 
-Baseado no Advice generator app solution do [Frontend Mentor](https://www.frontendmentor.io)
-
-## Overview
-
-![Design Construido no site](./design/cantadasDev.png)
-
-Para Acessar e conseguir conquistar a/o dev que vai dividir o café com você, basta clicar **[AQUI](#)**
-
-A ídeia é aproveitar a brincadeira com a comunidade dev para mostar um pouqinho do meu trabalho.
-
-projeto feito em HTML, CSS e JS puros.
-
-Espero que goste!
-
-**Divirta-se!** 🚀
-# Gerador de catadas dev
-
 A ídeia é aproveitar a brincadeira com a comunidade dev para mostar um pouqinho do meu trabalho. Baseado no Advice generator app solution do [Frontend Mentor](https://www.frontendmentor.io)
 
 ## Conteudo
@@ -52,3 +35,5 @@ com você, basta clicar **[AQUI](#)**
 
 - Website - [Lucas Ferrari](https://www.github.com/ferrarilucas)
 - Twitter - [@ferrarilr](https://www.twitter.com/ferrarilr)
+
+**Divirta-se!** 🚀
