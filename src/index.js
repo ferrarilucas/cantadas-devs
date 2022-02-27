@@ -1,6 +1,6 @@
 let cantadas
 
-$.getJSON("../public/cantadas.json", function(data){
+$.getJSON("../images/cantadas.json", function(data){
     cantadas = data["Cantadas"];
 });
 
@@ -9,10 +9,10 @@ function Init(){
 
    $(window).resize(() => {
         if($(window).width() < 500){
-            $('#main>img').attr('src', '../public/pattern-divider-mobile.svg');
+            $('#main>img').attr('src', '../images/pattern-divider-mobile.svg');
         }
         else{
-            $('#main>img').attr('src', '../public/pattern-divider-desktop.svg');
+            $('#main>img').attr('src', '../images/pattern-divider-desktop.svg');
         }
    })
 }
